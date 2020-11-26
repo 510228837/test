@@ -1,0 +1,16 @@
+1、需要在一个月内完成考核   网址：https://welcome.gz.cvte.cn/work#train   进行培训的线上考核
+2、请在入职次月的15号-20号间，登录“个人所得税”APP修改扣缴义务人（即修改用人单位）或进行新填报
+
+坚果云                        公司内部资料共享                                https://drive.cvte.com/d/home#/        
+合作伙伴来访预约系统        外部人员来访登记预约                        ress.cvte.com        
+
+VPN        提供出差时访问公司内部网络的功能                                 https://itsm.cvte.com/servicedesk/customer/portal/41/create/381?ticket=9b9f77d4-a05d-4410-bbae-8326a8cb731a
+慧捷报        财务报销，物资申请等                                        https://fee.cvte.com/jiebao-plus/                
+EHR                职级申请，职级标准                                        https://ehr.cvte.com                
+问答宝        问卷统计工具                                                https://wdb-admin.cvte.com/wdb/personal                
+派车系统        用车申请                                                        paiche.cvte.com
+个人中心        个人信息查看、登记、修改                                i.cvte.com        
+
+OCS        订单操作执行、建立样机硬件问题、查询硬件功能选项、下载板卡规格书/认证资料/OSD操作说明等        ocs.gz.cvte.cn        
+JIRA        研发问题跟进                                                        https://jira.cvte.com/
+gerrit代码权限        入职第一周        找技术经理开通权限        
